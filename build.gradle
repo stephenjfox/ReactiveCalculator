@@ -23,7 +23,7 @@ allprojects {
 
 ext {
     anvilVersion = '0.4.0'
-    anvil = "co.trikita:anvil-sdk15:$anvilVersion"
+    anvil = "co.trikita:anvil-sdk19:$anvilVersion"
     anvilAppCompatV7 = "co.trikita:anvil-appcompat-v7:$anvilVersion"
     anvilSupportV4 = "co.trikita:anvil-support-v4:$anvilVersion"
     anvilDesignSupport = "co.trikita:anvil-design:$anvilVersion"
